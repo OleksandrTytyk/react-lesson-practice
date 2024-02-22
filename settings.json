@@ -1,0 +1,15 @@
+{
+    "window.autoDetectColorScheme": true,
+    "window.confirmSaveUntitledWorkspace": true,
+    "workbench.colorTheme": "Andromeda",
+    "workbench.editor.decorations.colors": true,
+    "workbench.preferredDarkColorTheme": "Andromeda",
+    "workbench.colorCustomizations": {
+
+    },
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.activityBar.location": "side",
+    "breadcrumbs.enabled": true,
+    "workbench.settings.editor": "ui",
+    "screencastMode.mouseIndicatorColor": "#FF0000"
+}
